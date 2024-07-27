@@ -8,7 +8,7 @@ function Header(){
             <span>MovieFlix</span>
           <nav>
           <a href="#">Home</a>
-          <a href="#">Assistir</a>
+          <a href="#">Watch</a>
           </nav>
 
         </header>
