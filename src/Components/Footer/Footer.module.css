@@ -1,7 +1,7 @@
 
 .footer{
     position: absolute;   
-    width: 100%;
+    width: 100%;   
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11,6 +11,7 @@
     padding-block: 0.5rem; 
     right: 0; 
     left: 0;
+    padding-bottom: 0;
 }
 
 .footer h2{
